@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68cab144-83ca-4f0a-bcfc-f568e1400162" name="Default Changelist" comment="ParkingManager application was created. The description is in README file.">
+    <list default="true" id="68cab144-83ca-4f0a-bcfc-f568e1400162" name="Default Changelist" comment="Project was built with Maven.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sinitsyn/manager/ParkingLifeCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/ParkingLifeCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/parkingmanager.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sinitsyn/manager/ParkingLifeCycle.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,38 +25,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sinitsyn/manager/ParkingLifeCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/ParkingManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/ParkingLifeCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="242">
-                <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+                <caret line="11" column="145" selection-start-line="11" selection-start-column="145" selection-end-line="11" selection-end-column="145" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -79,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/entity/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/entity/Truck.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/entity/Car.java" />
@@ -91,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sinitsyn/manager/parkingspaces/TruckParkingSpaceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sinitsyn/manager/ParkingLifeCicle.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sinitsyn/manager/ParkingLifeCycle.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -168,24 +169,6 @@
               <item name="parkingmanager" type="b2602c69:ProjectViewProjectNode" />
               <item name="parkingmanager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parkingmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parkingmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="parkingspaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parkingmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parkingmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,19 +181,7 @@
             <path>
               <item name="parkingmanager" type="b2602c69:ProjectViewProjectNode" />
               <item name="parkingmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parkingmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parkingmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="parkingspaces" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,6 +211,9 @@
       <recent name="com.sinitsyn.manager.parkingspaces" />
       <recent name="com.sinitsyn.manager" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sinitsyn.manager" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -256,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParkingLifeCycle">
+  <component name="RunManager" selected="JAR Application.parkingmanager-1.0-SNAPSHOT-jar-with-dependencies.jar">
     <configuration name="ParkingLifeCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinitsyn.manager.ParkingLifeCycle" />
       <module name="parkingmanager" />
@@ -278,21 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkingManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parkingmanager" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sinitsyn.manager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sinitsyn.manager" />
-      <option name="MAIN_CLASS_NAME" value="com.sinitsyn.manager.ParkingManagerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TruckParkingSpaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parkingmanager" />
       <extension name="coverage">
@@ -308,29 +267,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TruckParkingSpaceTest.addTruckToParkingWillNotAddTheSameTruck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parkingmanager" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sinitsyn.manager.parkingspaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sinitsyn.manager.parkingspaces" />
-      <option name="MAIN_CLASS_NAME" value="com.sinitsyn.manager.parkingspaces.TruckParkingSpaceTest" />
-      <option name="METHOD_NAME" value="addTruckToParkingWillNotAddTheSameTruck" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="parkingmanager-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/parkingmanager-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parkingmanager-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/parkingmanager-1.0-SNAPSHOT.jar" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.parkingmanager-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.parkingmanager-1.0-SNAPSHOT.jar" />
         <item itemvalue="Application.ParkingLifeCycle" />
         <item itemvalue="JUnit.All in parkingmanager" />
         <item itemvalue="JUnit.TruckParkingSpaceTest" />
-        <item itemvalue="JUnit.TruckParkingSpaceTest.addTruckToParkingWillNotAddTheSameTruck" />
-        <item itemvalue="JUnit.ParkingManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -346,8 +297,16 @@
       <updated>1559474242266</updated>
       <workItem from="1559474249629" duration="25916000" />
       <workItem from="1559569948144" duration="17420000" />
-      <workItem from="1559624591585" duration="4588000" />
+      <workItem from="1559624591585" duration="7698000" />
     </task>
+    <task id="LOCAL-00001" summary="Description was added in README.md fail.">
+      <created>1559629885698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559629885698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -383,13 +342,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47924000" />
+    <option name="totallyTimeSpent" value="51034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -398,21 +356,21 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7158713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26859045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.14712153" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -423,6 +381,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Description was added in README.md fail." />
+    <MESSAGE value="Project was built with Maven." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project was built with Maven." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/parkingmanager$CarParkingSpaceTest_deleteTruckFromDoubleCarParkingSpacesWillDeleteExistedTruck.ic" NAME="CarParkingSpaceTest.deleteTruckFromDoubleCarParkingSpacesWillDeleteExistedTruck Coverage Results" MODIFIED="1559581816334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -439,13 +402,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/entity/Truck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -550,16 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sinitsyn/manager/ParkingLifeCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/ParkingManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -570,13 +516,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="242">
-            <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <caret line="11" column="145" selection-start-line="11" selection-start-column="145" selection-end-line="11" selection-end-column="145" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sinitsyn/manager/ParkingLifeCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
